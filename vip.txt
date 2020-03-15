@@ -1,6 +1,6 @@
 央视频道,#genre#
 CCTV4K,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-CCTV1高清,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+CCTV1高清,https://vd.uballcc.com/videos/202003/14/5e6b7d7fb53f9b73b8584bb3/d1g5gf/index.m3u8
 CCTV2高清,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 CCTV3高清,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
 CCTV4高清,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
