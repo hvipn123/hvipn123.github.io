@@ -96,6 +96,4 @@ http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_h
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=009&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视"
-#EXTM3U
-#EXTINF:-1,酒店约炮很有爱心
-https://vd.uballcc.com/videos/202003/14/5e6b7d7fb53f9b73b8584bb3/d1g5gf/index.m3u8
+
