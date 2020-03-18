@@ -30,7 +30,7 @@
 内蒙卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 新疆卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 西藏卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-8国外电影,#genre#
+国外电影频道,#genre#
 FOX动作,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 黑莓电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
 超级电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
@@ -60,7 +60,7 @@ FOX动作,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 爱奇艺_宫廷正剧,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_niandaijuchang_1080p_t10/c15_lb_niandaijuchang_1080p_t10.m3u8
 爱奇艺_抗战剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
 爱奇艺_热播电视剧,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
-云课堂,#genre#
+网络课堂,#genre#
 中国教育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
 小学美术1,https://charge.zuoyebang.cc/record_1bfb7b7aa8fb1806c8dd89b9bb7a710f.mp4
 小学英语早读1,https://charge.zuoyebang.cc/record_eb20b799102d964e89741c4c2f634443.mp4
@@ -455,7 +455,7 @@ FOX动作,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 企鹅辅 Ⅰ 高中一年级,http://live-edu.wasu.tv/live/QiEFuDao-lv10.m3u8
 企鹅辅 Ⅰ 高中二年级,http://live-edu.wasu.tv/live/QiEFuDao-lv11.m3u8
 企鹅辅 Ⅰ 高中三年级,http://live-edu.wasu.tv/live/QiEFuDao-lv12.m3u8
-热辣嗨曲,#genre#
+热辣嗨曲_0898,#genre#
 车舞 - 泰国波动比基尼美女,https://mrw.so/4YfTFh?dsjtv.com/hw/20200205.mp4
 车舞 - 泰国超甜美丽模特,https://mrw.so/5kKkJw?dsjtv.com/hw/20200205.mp4
 车舞 - 泰国跳舞家族聚会,https://mrw.so/5de7Gh?dsjtv.com/hw/20200205.mp4
