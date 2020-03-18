@@ -1,3 +1,17 @@
+高清电影,#genre#
+歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?
+亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?
+FOX动作,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+黑莓电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+香港电影,http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+超级电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+华纳电影,http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+福克斯电影,http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+高清电影1,http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+高清电影3,http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+高清电影5,http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+高清电影6,http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
 爱奇艺影院,#genre#
 爱奇艺_电影大片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
 爱奇艺_贺岁影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
@@ -543,7 +557,7 @@
 18禁 Ⅰ 叫床声超大大奶少妇,https://qqc1107.phpdaniu.com/japan/20191101/f3meHQuD/500kb/hls/index.m3u8
 18禁 Ⅰ 洗澡的翘屁少妇被操,https://qqc1107.phpdaniu.com/japan/20191101/VwgHYSi8/index.m3u8
 18禁 Ⅰ 妹子被大屌插到尖叫,https://qqc1107.phpdaniu.com/japan/20191101/x7qjNL7o/index.m3u8
-熟女人妻_0898,#genre#
+熟女人妻_0898,
 寝取られ続けた専業主婦,https://vd.zhiyuanhongda.com/videos/202002/28/5e581808485ee8276077d68b/9d9135/index.m3u8
 広瀬ゆな グラマラス,https://vd.uballcc.com/videos/202003/15/5e6d6355b53f9b73b8584c41/4e6dag/index.m3u8
 しに子宮は切なく痺,https://vd.zhiyuanhongda.com/videos/202002/28/5e57fe28485ee8276077d67b/8aff43/index.m3u8
