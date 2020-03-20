@@ -5,7 +5,7 @@ CCTV-3,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000203803.m3u8
 CCTV-4,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204803.m3u8
 CCTV-5,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000205103.m3u8
 CCTV-5+,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204503.m3u8
-CCTV-6,playtype=live&protocol=hls&accesstoken=R5CA2B7CAU3090C010K77540044IFB84556FPBM3220A5DV1044EZ33519WE22942B42A1&playtoken=ABCDEFGHI&programid=4200000136.m3u8
+CCTV-6,http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=11&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
 CCTV-7,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000510003.m3u8
 CCTV-8,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000203903.m3u8
 CCTV-9,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000499403.m3u8
