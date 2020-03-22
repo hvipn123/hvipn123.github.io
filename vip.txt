@@ -54,7 +54,7 @@ CCTV-4K,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000266303.m3u8
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 有线新闻台,http://47.240.49.68/hk/xg190.php?id=31
-无线新闻台.http://47.240.49.68/hk/xg190.php?id=9
+无线新闻台,http://47.240.49.68/hk/xg190.php?id=9
 翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB J2,http://47.240.49.68/hk/xg190.php?id=12
 无线财经,http://47.240.49.68/hk/xg190.php?id=10
