@@ -72,8 +72,8 @@ TVB明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_o
 华视新闻,http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
 中天综合,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 东森新闻,http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-非凡新闻台https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
+三立新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298998_I3GDL.m3u8
+非凡新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
 电影频道,#genre#
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
