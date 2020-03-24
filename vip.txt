@@ -116,12 +116,42 @@ BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
 日本TBS NEWS,http://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
 日本WOWO电影,http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
 日本Japanet Channel DX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+新加坡亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡朝阳,http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 越南人民报,http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
 越南ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 印度音乐电视,http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
+俄罗斯军事频道,http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
+俄罗斯中国环球,http://live.cgtn.com/1000r/prog_index.m3u8
+俄罗斯俄罗斯一台,http://a787201928-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
+俄罗斯HD时尚频道,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 俄罗斯音乐台,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+乌克兰M2 音乐频道,http://live.m2.tv/hls3/stream.m3u8
 欧洲频道,#genre#
+狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+法国中国环球,http://live.cgtn.com/1000f/prog_index.m3u8
+法国第五世界台,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+法国24台 (英语),http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
+法国24台 (法语),http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+西班牙皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+西班牙中国环球,http://livees.cgtn.com/1000e/prog_index.m3u8
+西班牙盛兴电视台,https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+西班牙活力电视台,https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_3.m3u8
+西班牙啵嘤卡通台,https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_3.m3u8
+意大利Rai高清,http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+意大利Rai 少儿,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+意大利Rai 电影,http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+意大利意大利电台,http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+意大利V2 音乐频道,http://de1se01.v2beat.live/playlist.m3u8
 北美频道,#genre#
+FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+CBS新闻,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+NBC电视,http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
+酷酷频道,http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
+红牛电视,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+墨西哥电视,http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 南美频道,#genre#
 非洲频道,#genre#
 电影频道,#genre#
